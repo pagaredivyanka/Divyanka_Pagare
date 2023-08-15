@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋🏻, I'm Divyanka Pagare</h1>
-<h3 align="center">I'm an Computer Engineering Student 👩🏻‍💻, in third year at PVGCOE & SSDIOM,Nashik 👩🏻‍🎓</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuploads-ssl.webflow.com%2F61ebe5f773be1acd620f8208%2F61fa3997c8a7f531e18d4e67_man-coding-on-laptop.gif&imgrefurl=https%3A%2F%2Fwww.webbeeglobal.com%2Fblog%2F7-things-which-make-you-a-perfect-android-app-developer&tbnid=NwRbwvQf4ud7PM&vet=12ahUKEwiFn5WNgcn9AhUIxHMBHXyOCCUQMyhOegUIARCgAQ..i&docid=LK9OX2Cu48TgmM&w=1500&h=1500&q=animated%20coding%20gif&hl=en&ved=2ahUKEwiFn5WNgcn9AhUIxHMBHXyOCCUQMyhOegUIARCgAQ>  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayesh-more&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh-more" /> </p>
+<h3 align="center">An Computer Engineering Student 👩🏻‍💻, In third year at PVGCOE & SSDIOM,Nashik 👩🏻‍🎓</h3> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pagaredivyanka&label=Profile%20views&color=0e75b6&style=flat" alt="pagaredivyanka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayesh-more" alt="jayesh-more" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pagaredivyanka" alt="pagaredivyanka" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures, MERN/MAVN**
+- 🌱 I’m currently learning **Data Structures, MERN stack**
 
 - 💬 Ask me about **Web Development**
 
@@ -35,6 +34,7 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="         " alt="pagaredivyanka" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pagaredivyanka&show_icons=true&locale=en&layout=compact" alt="pagaredivyanka" /></p>
 
-<p><img align="center" src="      " alt="pagaredivyanka" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pagaredivyanka&" alt="pagaredivyanka" /></p>
