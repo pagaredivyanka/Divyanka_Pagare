@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Divyanka Pagare</h1>
-<h3 align="center">An Computer Engineering Student 👩🏻‍💻, In third year at PVGCOE & SSDIOM,Nashik 👩🏻‍🎓</h3> 
+<h3 align="center">An Computer Engineering Student 👩🏻‍💻</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pagaredivyanka&label=Profile%20views&color=0e75b6&style=flat" alt="pagaredivyanka" /> </p>
 
 <p align="left"> 
