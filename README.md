@@ -2,23 +2,15 @@
 <h3 align="center">An Computer Engineering Student 👩🏻‍💻</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pagaredivyanka&label=Profile%20views&color=0e75b6&style=flat" alt="pagaredivyanka" /> </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pagaredivyanka" alt="pagaredivyanka" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures, MERN stack**
 
 - 💬 Ask me about **Development**
 
 - 📫 How to reach me **pagaredivyanka@gmail.com**
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/divyankastweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pagare_divyanka" height="30" width="40" /></a>
-<a href="https://github.com/pagaredivyanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divyanka-pagare-269b0422b/" height="30" width="40" /></a>
-<a href="https://leetcode.com/pagaredivyanka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pagaredivyanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pagaredivyanka" height="30" width="40" /></a>
-</p>
-
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="android" width="40" height="40"/> </a> 
@@ -35,8 +27,20 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/divyankastweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pagare_divyanka" height="30" width="40" /></a>
+<a href="https://github.com/pagaredivyanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divyanka-pagare-269b0422b/" height="30" width="40" /></a>
+<a href="https://leetcode.com/pagaredivyanka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pagaredivyanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pagaredivyanka" height="30" width="40" /></a>
+</p>
+<br>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pagaredivyanka" alt="pagaredivyanka" /></a> </p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pagaredivyanka&show_icons=true&locale=en&layout=compact" alt="pagaredivyanka"/></p>
 
