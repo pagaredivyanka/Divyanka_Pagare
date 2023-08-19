@@ -10,7 +10,6 @@
 - 📫 How to reach me **pagaredivyanka@gmail.com**
   
 
-  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="android" width="40" height="40"/> </a> 
