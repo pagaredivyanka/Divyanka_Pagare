@@ -8,6 +8,8 @@
 - 💬 Ask me about **Development**
 
 - 📫 How to reach me **pagaredivyanka@gmail.com**
+  
+- Known technologies **Java, React**
 
 
 <h3 align="left">Languages and Tools:</h3>
