@@ -24,13 +24,30 @@
 <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-
-
 <br>
 
+![](https://github-profile-trophy.vercel.app/?username=pagaredivyanka&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+<table>
+<tr>
+  <td align="center">
+  <p align="center">
+    <a href="https://github.compagaredivyanka">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pagaredivyanka&show_icons=true&theme=radical&locale=en&layout=compact"/>
+    </a>
+    </td>
+  </p>
+ </tr>
+</table>
+
+
 <p align="left">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pagaredivyanka&theme=radical&hide_border=false"/>
+</p>
+
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pagaredivyanka" alt="pagaredivyanka" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pagaredivyanka&show_icons=true&locale=en&layout=compact" alt="pagaredivyanka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pagaredivyanka&" alt="pagaredivyanka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pagaredivyanka&" alt="pagaredivyanka" /></p> --!>
