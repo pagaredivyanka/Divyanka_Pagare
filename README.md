@@ -3,13 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pagaredivyanka&label=Profile%20views&color=0e75b6&style=flat" alt="pagaredivyanka" /> </p>
 
 
-- 🌱 I’m currently learning **Data Structures, MERN stack**
+- 🌱 I’m currently learning **Data Structures and Algorithms, MERN stack**
 
 - 💬 Ask me about **Development**
 
 - 📫 How to reach me **pagaredivyanka@gmail.com**
   
-- Known technologies **Java, React**
+- Proficient in **Java, React Js, Node Js, Express Js, MySQL, MongoDB**
 
 
 <h3 align="left">Languages and Tools:</h3>
