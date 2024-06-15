@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, MERN stack**
 
-- 💬 Ask me about - **Development**
+- 💬 Ask me about **Development**
 
-- 📫 How to reach me - **pagaredivyanka@gmail.com**
+- 📫 How to reach me **pagaredivyanka@gmail.com**
   
-- Proficient in - **Java, React Js, Node Js, Express Js, MySQL, MongoDB**
+- Proficient in **Java, React Js, Node Js, Express Js, MySQL, MongoDB**
 
 
 <h3 align="left">Languages and Tools:</h3>
