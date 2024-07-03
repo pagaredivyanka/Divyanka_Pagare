@@ -13,7 +13,7 @@
 
 - [HackerRank](https://www.hackerrank.com/profile/pagaredivyanka)
   
-- Proficient in **Java, React Js, Node Js, Express Js, MySQL, MongoDB**
+- Proficient in **Java, Javascript, React Js**
 
 
 <h3 align="left">Languages and Tools:</h3>
