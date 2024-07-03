@@ -11,6 +11,8 @@
 
 - [LeetCode](https://leetcode.com/u/pagaredivyanka/)
 
+- [GeeksForGeeks](https://www.geeksforgeeks.org/user/pagaredieyjv/)
+
 - [HackerRank](https://www.hackerrank.com/profile/pagaredivyanka)
   
 - Proficient in **Java, Javascript, React Js**
