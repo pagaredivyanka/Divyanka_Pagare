@@ -47,7 +47,7 @@
 </table>
 <p >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pagaredivyanka&theme=radical&hide_border=false"/>
-<img src="https://github-readme-stats.vercel.app/api?username=pagaredivyanka&show_icons=true&theme=dark&background=000000" height=170em>
+<img src="https://github-readme-stats.vercel.app/api?username=pagaredivyanka&show_icons=true&theme=radical&hide_border=false" height=170em>
 </p>
 </p>
 
