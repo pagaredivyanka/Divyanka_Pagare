@@ -40,6 +40,7 @@
   <p align="center">
     <a href="https://github.compagaredivyanka">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pagaredivyanka&show_icons=true&theme=radical&locale=en&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=abhi0323&show_icons=true&theme=dark&background=000000" height=170em>
     </a>
     </td>
   </p>
