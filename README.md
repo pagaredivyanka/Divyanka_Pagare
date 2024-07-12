@@ -47,13 +47,14 @@
 </table>
 
 
-<p align="left">
+<p >
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pagaredivyanka&theme=radical&hide_border=false"/>
-</p>
-
-<p align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=pagaredivyanka&show_icons=true&theme=dark&background=000000" height=170em>
 </p>
+</p>
+
+<p >
+
 
 <!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pagaredivyanka" alt="pagaredivyanka" /></a> </p>
