@@ -42,7 +42,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pagaredivyanka&show_icons=true&theme=radical&locale=en&layout=compact"/>
     </a>
     <a href="https://github.compagaredivyanka">
-      <img src="https://github-readme-stats.vercel.app/api?username=pagaredivyanka&show_icons=true&theme=radical&hide_border=false&locale=en&layout=compact">
+      <img src="https://github-readme-stats.vercel.app/api?username=pagaredivyanka&show_icons=true&theme=radical&hide_border=false&locale=en&layout=compact" height=160em>
     </a>
     <br>
     <a href="https://github.compagaredivyanka">
