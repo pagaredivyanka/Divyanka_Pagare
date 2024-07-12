@@ -44,7 +44,7 @@
     <a href="https://github.compagaredivyanka">
       <img src="https://github-readme-stats.vercel.app/api?username=pagaredivyanka&show_icons=true&theme=radical&hide_border=false&locale=en&layout=compact" height=165em>
     </a>
-    <br>
+    <br><br>
     <a href="https://github.compagaredivyanka">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=pagaredivyanka&theme=radical&hide_border=false"/>
     </a>
