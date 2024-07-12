@@ -34,7 +34,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=pagaredivyanka&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-<table>
+<table align="center">
 <tr>
   <td align="center">
   <p align="center">
