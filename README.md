@@ -2,12 +2,12 @@
 <h3 align="center">An Computer Engineering Student 👩🏻‍💻</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pagaredivyanka&label=Profile%20views&color=0e75b6&style=flat" alt="pagaredivyanka" /> </p>
 
--Currently deepening expertise in Data Structures and Algorithms.
--Mastering the MERN stack.
--Active on LeetCode, GeeksForGeeks, and HackerRank for coding practice.
--Proficient in Java, JavaScript, and React.js.
--Passionate about solving complex problems and building innovative solutions.
--Reach out to me at pagaredivyanka@gmail.com.
+- Currently deepening expertise in Data Structures and Algorithms.
+- Mastering the MERN stack.
+- Active on LeetCode, GeeksForGeeks, and HackerRank for coding practice.
+- Proficient in Java, JavaScript, and React.js.
+- Passionate about solving complex problems and building innovative solutions.
+- Reach out to me at pagaredivyanka@gmail.com.
 
 - I’m currently learning **Data Structures and Algorithms, MERN stack**
 
