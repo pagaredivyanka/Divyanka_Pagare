@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I am Divyanka..</h1>
-<h3 align="center">An Computer Engineering Student 👩🏻‍💻</h3> 
+<p align="center">An Computer Engineering Student 👩🏻‍💻</p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pagaredivyanka&label=Profile%20views&color=0e75b6&style=flat" alt="pagaredivyanka" /> </p>
 
 - Currently deepening expertise in Data Structures and Algorithms.
