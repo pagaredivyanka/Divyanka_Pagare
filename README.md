@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pagaredivyanka&label=Profile%20views&color=0e75b6&style=flat" alt="pagaredivyanka" /> </p>
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, MERN stack**
+- I’m currently learning **Data Structures and Algorithms, MERN stack**
 
-- 💬 Ask me about **Development**
+- Ask me about **Development**
 
-- 📫 How to reach me **pagaredivyanka@gmail.com**
+- How to reach me **pagaredivyanka@gmail.com**
 
 - [LeetCode](https://leetcode.com/u/pagaredivyanka/)
 
