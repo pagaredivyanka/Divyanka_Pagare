@@ -9,6 +9,9 @@
 - Passionate about solving complex problems and building innovative solutions.
 - Reach out to me at pagaredivyanka@gmail.com.
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanka-pagare-269b0422b/) 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="android" width="40" height="40"/> </a>
