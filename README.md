@@ -9,21 +9,6 @@
 - Passionate about solving complex problems and building innovative solutions.
 - Reach out to me at pagaredivyanka@gmail.com.
 
-- I’m currently learning **Data Structures and Algorithms, MERN stack**
-
-- Ask me about **Development**
-
-- How to reach me **pagaredivyanka@gmail.com**
-
-- 
-
-- 
-
-- 
-  
-- Proficient in **Java, Javascript, React Js**
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="android" width="40" height="40"/> </a>
