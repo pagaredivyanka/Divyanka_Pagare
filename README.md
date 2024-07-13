@@ -11,9 +11,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanka-pagare-269b0422b/) 
+<be>
 
 ## 💻 Tech Stack:
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -46,10 +46,7 @@
     <a href="https://github.compagaredivyanka" align="right">
       <img src="https://github-readme-stats.vercel.app/api?username=pagaredivyanka&show_icons=true&theme=radical&hide_border=false&locale=en&layout=compact" height=165em>
     </a>
-    <br><br>
-    <a href="https://github.compagaredivyanka" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pagaredivyanka&theme=radical&hide_border=false"/>
-    </a>
+    <a href="https://github.compagaredivyanka" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pagaredivyanka&theme=radical&hide_border=false"/></a>
     </td>
   </p>
  </tr>
