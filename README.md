@@ -4,7 +4,7 @@
 
 - Currently deepening expertise in Data Structures and Algorithms.
 - Mastering the MERN stack.
-- Active on [LeetCode](https://leetcode.com/u/pagaredivyanka/), [GeeksForGeeks](https://www.geeksforgeeks.org/user/pagaredieyjv/), and [HackerRank](https://www.hackerrank.com/profile/pagaredivyanka) for coding practice.
+- Active on [LeetCode](https://leetcode.com/u/pagaredivyanka/), [GeeksForGeeks](https://www.geeksforgeeks.org/user/pagaredivyanka/), and [HackerRank](https://www.hackerrank.com/profile/pagaredivyanka) for coding practice.
 - Proficient in Java, JavaScript, and React.js.
 - Passionate about solving complex problems and building innovative solutions.
 - Reach out to me at pagaredivyanka@gmail.com.
