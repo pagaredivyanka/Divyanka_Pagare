@@ -1,16 +1,10 @@
-<h1 align="center">Hi 👋🏻, I am Divyanka..</h1>
-<p align="center">An Computer Engineering Student 👩🏻‍💻</p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pagaredivyanka&label=Profile%20views&color=0e75b6&style=flat" alt="pagaredivyanka" /> </p>
 
-- Currently deepening expertise in Data Structures and Algorithms.
-- Mastering the MERN stack.
-- Active on [LeetCode](https://leetcode.com/u/pagaredivyanka/), [GeeksForGeeks](https://www.geeksforgeeks.org/user/pagaredivyanka/), and [HackerRank](https://www.hackerrank.com/profile/pagaredivyanka) for coding practice.
+- Data Structures and Algorithms - Active on [LeetCode](https://leetcode.com/u/pagaredivyanka/), [GeeksForGeeks](https://www.geeksforgeeks.org/user/pagaredivyanka/), and [HackerRank](https://www.hackerrank.com/profile/pagaredivyanka) for coding practice.
+- MERN stack.
 - Proficient in Java, JavaScript, and React.js.
-- Passionate about solving complex problems and building innovative solutions.
 - Reach out to me at pagaredivyanka@gmail.com.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanka-pagare-269b0422b/) 
 <be>
 
 ## 💻 Tech Stack:
