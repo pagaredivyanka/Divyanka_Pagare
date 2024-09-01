@@ -1,11 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pagaredivyanka&label=Profile%20views&color=0e75b6&style=flat" alt="pagaredivyanka" /> </p>
 
-- Data Structures and Algorithms - Active on [LeetCode](https://leetcode.com/u/pagaredivyanka/), [GeeksForGeeks](https://www.geeksforgeeks.org/user/pagaredivyanka/), and [HackerRank](https://www.hackerrank.com/profile/pagaredivyanka) for coding practice.
-- MERN stack.
+- MERN stack Developer.
 - Proficient in Java, JavaScript, and React.js.
+- Data Structures and Algorithms - Active on [LeetCode](https://leetcode.com/u/pagaredivyanka/), [GeeksForGeeks](https://www.geeksforgeeks.org/user/pagaredivyanka/), and [HackerRank](https://www.hackerrank.com/profile/pagaredivyanka) for coding practice.
+
 - Reach out to me at pagaredivyanka@gmail.com.
 
-<be>
+<br>
 
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
