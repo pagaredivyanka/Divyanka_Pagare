@@ -2,7 +2,7 @@
 
 - MERN stack Developer.
 - Proficient in Java, JavaScript, and React.js.
-- Data Structures and Algorithms - Active on [LeetCode](https://leetcode.com/u/pagaredivyanka/), [GeeksForGeeks](https://www.geeksforgeeks.org/user/pagaredivyanka/), and [HackerRank](https://www.hackerrank.com/profile/pagaredivyanka).
+- Data Structures and Algorithms
 
 - Reach out to me at pagaredivyanka@gmail.com.
 
