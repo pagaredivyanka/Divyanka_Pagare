@@ -1,4 +1,4 @@
-<!--     <p align="left"> <img src="https://komarev.com/ghpvc/?username=pagaredivyanka&label=Profile%20views&color=0e75b6&style=flat" alt="pagaredivyanka" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pagaredivyanka&label=Profile%20views&color=0e75b6&style=flat" alt="pagaredivyanka" /> </p>
 
 - MERN stack Developer.
 - Proficient in Java, JavaScript, and React.js.
@@ -31,7 +31,7 @@
 
 
 <!--   ----------------------------------------------------------------------------------------------------------------------------------------------       -->
-<!-- <table align="center" padding=40em>
+<table align="center" padding=40em>
 <tr>
   <td align="center">
     <a href="https://github.compagaredivyanka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pagaredivyanka&show_icons=true&theme=radical&locale=en&layout=compact"/></a>
@@ -40,4 +40,4 @@
   </td>
 </tr>
 </table>
-</p> -->
+</p> 
