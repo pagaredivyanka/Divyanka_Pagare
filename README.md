@@ -1,11 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pagaredivyanka&label=Profile%20views&color=0e75b6&style=flat" alt="pagaredivyanka" /> </p>
 
-- MERN stack Developer.
+<!-- - MERN stack Developer.
 - Proficient in Java, JavaScript, and React.js.
-- Data Structures and Algorithms
+- Data Structures and Algorithms  -->
 
 - Reach out to me at pagaredivyanka@gmail.com.
-
+<!--
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -30,7 +30,7 @@
 <!-- ![](https://github-profile-trophy.vercel.app/?username=pagaredivyanka&theme=discord&no-frame=false&no-bg=false&margin-w=4) -->
 
 
-<!--   ----------------------------------------------------------------------------------------------------------------------------------------------       -->
+<!--   ----------------------------------------------------------------------------------------------------------------------------------------------       
 <table align="center" padding=40em>
 <tr>
   <td align="center">
@@ -40,4 +40,4 @@
   </td>
 </tr>
 </table>
-</p> 
+</p> -->
