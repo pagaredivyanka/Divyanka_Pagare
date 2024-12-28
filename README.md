@@ -3,8 +3,7 @@
  - MERN stack Developer.
 - Proficient in Java, JavaScript, and React.js.
 - Data Structures and Algorithms  -->
-
-- Reach out to me at pagaredivyanka@gmail.com.
+Reach out to me at pagaredivyanka@gmail.com.
 <!--
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
